@@ -11,17 +11,9 @@ Soy Alexander, desarrollador web y estudiante de Ingeniería en la Universidad T
 - **Universidad Técnica de Ambato**
   - Estudiante de Ingeniería de Software
 
-## Habilidades Técnicas
-- **Lenguajes de Programación**: Java, JavaScript, SQL
-- **Frontend**: React, HTML, CSS
-- **Backend**: Node.js, Express, Sequelize
-- **Bases de Datos**: MySQL
-- **Herramientas de Control de Versiones**: Git
-- 
 ## Actualmente Aprendiendo
-- Consultas SQL complejas con subconsultas y funciones agregadas.
-- Mejora en habilidades de diseño y optimización de bases de datos.
-- Aplicaciones basadas en React, utilizando una metodología SPA.
+- Diseño de bases de datos relacionales y SQL complejo.
+- Aplicaciones basadas en React.
 
 Estoy siempre abierto a nuevas oportunidades de colaboración y aprendizaje.
 
