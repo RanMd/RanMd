@@ -15,7 +15,7 @@ Soy Alexander, desarrollador web y estudiante de Ingeniería en la Universidad T
 - Aplicaciones basadas en React.
 
 ## Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RanMd)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RanMd&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 Estoy siempre abierto a nuevas oportunidades de colaboración y aprendizaje.
 
